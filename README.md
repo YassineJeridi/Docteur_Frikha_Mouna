@@ -1,4 +1,4 @@
-# Dr. Mouna Frikha - Médecine Générale
+# Dr. Mouna Frikha - Médecine générale / Médecine esthétique / Laser médicaux
 
 🏥 Professional medical website for Dr. Mouna Frikha's general medicine practice in Tunis.
 
@@ -8,8 +8,7 @@
   - Primary: #a68664 (Sophisticated Brown)
   - Secondary: #c5b884 (Elegant Gold)
   - Background: #f3f3f3 (Clean White)
-  
-- **Modern UI/UX**: 
+- **Modern UI/UX**:
   - Smooth animations and transitions
   - Responsive design for all devices
   - Accessible and user-friendly interface
